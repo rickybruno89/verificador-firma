@@ -5,7 +5,6 @@ Extrae información de firmantes y genera archivo de reporte
 Uso: python3 verificar_firmas.py [archivo.pdf]
 """
 
-import sys
 import re
 from datetime import datetime
 from pypdf import PdfReader
