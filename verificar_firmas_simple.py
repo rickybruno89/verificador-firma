@@ -2,7 +2,7 @@ from pypdf import PdfReader
 import re
 
 # IMPORTANTE: Cambiar este nombre por el archivo PDF a analizar
-pdf = "NOMBRE_DEL_ARCHIVO.pdf"
+pdf = "0010216255_c6ef39c4-f7d1-4873-8621-f37319a726b4.pdf"
 reader = PdfReader(pdf)
 
 # Acceder a los campos de formulario del PDF
